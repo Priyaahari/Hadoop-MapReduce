@@ -1,5 +1,7 @@
 						HARIPRIYAA U MANIAN [hum160030]
-					Big Data Management and Analytics Assignment1 - Readme file
+					Big Data Management and Analytics - Fall 2017
+		-------------Hadoop Map Reduce ---Finding Mutual Friends of the User and Analysis on Yelp DataSet---------------
+					
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Question1:
